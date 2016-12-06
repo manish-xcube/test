@@ -1,6 +1,6 @@
 <?php 
-//include "header.php";
-include "left-menu.php";
+// include "header.php";
+//include "left-menu.php";
 $anno_margin=30;
 $chart1_categories ="";
 $chart1_series1_sum = "";
