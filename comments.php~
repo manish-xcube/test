@@ -1,9 +1,7 @@
 <?php 
-
-//comments of users	
+//comments of users
 include "header.php";
 include "left-menu.php";
-
 $anno_margin=30;
 $chart1_categories ="";
 $chart1_series1_sum = "";
